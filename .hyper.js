@@ -8,8 +8,6 @@ module.exports = {
       {
         rule: ['once', 'splitted'],
         commands: [
-          "alias eco='cd ~/Desktop/ecoopera2'",
-          "alias ecovue='cd ~/Desktop/e-coopera'",
           "alias launch='php artisan serve'",
           "alias artisan='php artisan'",
           "alias tinker='php artisan tinker'",
@@ -18,8 +16,6 @@ module.exports = {
           "alias migrate-seed='artisan migrate:fresh --seed'",
           "alias migrate-fresh='artisan migrate:fresh'",
           "alias seed='php artisan db:seed'",
-          "alias portfolio='cd C:/xampp/htdocs/portfolio'",
-          "alias ecodashboard='cd ~/Desktop/ecoopera-dashboard'",
           "alias nuxt='npm run dev'",
           "alias add='git add .'",
           "alias commit='git commit -m'",
